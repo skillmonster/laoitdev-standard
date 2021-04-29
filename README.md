@@ -39,6 +39,6 @@ Library below is a simple library for work
   - [validatejs](https://validatejs.org/) provides a declarative way of validating javascript objects
 
 ## Structure 
-Sample starter project
+Sample starter project\
 ![Screen Shot 2021-04-29 at 16 13 38](https://user-images.githubusercontent.com/40821034/116528987-a484da00-a906-11eb-9492-76c9566d032f.png)
 
