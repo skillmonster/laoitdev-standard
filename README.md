@@ -4,14 +4,14 @@
 - [Language Skill](#language-skill)
 - [Framework](#framework)
 - [UI Library](#ui-libray)
-- [Library](#library)
+- [Libraries](#libraries)
 - [Template](#template)
 
 ## Language Skill
   - HTML
   - CSS (extension SASS)
   - JavaScript
-  - Typescript
+  - Typescript is build on JavaScript
 
 ## FrameWork
   - ReactJS
@@ -28,8 +28,8 @@
 We have a template to easy for working
   - Fuse Template
 
-## Library
-
+## Libraries
+Library below is a simple library for work
   - [Axios](https://github.com/axios/axios) HTTP Client
   - [Redux](https://redux.js.org/) is a predictable state container `Have to understand`
   - [React-Redux](https://react-redux.js.org/) for state management
