@@ -2,8 +2,12 @@
 
 ## Contents
 - [Language Skill](#language-skill)
-- [Framework](framework)
+- [Framework](#framework)
 
 ## Language Skill
+  - HTML
+  - CSS (extension SASS)
+  - JavaScript
+  - Typescript
 
 ## FrameWork
