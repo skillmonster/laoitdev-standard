@@ -1,8 +1,11 @@
-# Fronted end Guildline
+# Fronted end Guild line
 
 ## Contents
 - [Language Skill](#language-skill)
 - [Framework](#framework)
+- [UI Library](#ui-libray)
+- [Library](#library)
+- [Template](#template)
 
 ## Language Skill
   - HTML
@@ -11,3 +14,22 @@
   - Typescript
 
 ## FrameWork
+  - ReactJS
+  - React Typescript
+
+## UI Lirbary
+  - Material
+  Understand about [Material](https://material.io/) to work with react material ui [Link](https://material-ui.com/)
+  - Bootsrap
+  Understand about [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/) ^4 to work on with [Link](https://react-bootstrap.github.io/getting-started/introduction)
+  - [antd] `optional`
+
+## Template
+We have a template to easy for working
+  - Fuse Template
+
+## Library
+  - [Axios](https://github.com/axios/axios) HTTP Client
+  - [Redux](https://redux.js.org/) is a predictable state container `Have to understand`
+  - [React-Redux](https://react-redux.js.org/)
+  - [Redux-Saga](https://redux-saga.js.org/)
