@@ -37,6 +37,7 @@ Library below is a simple library for work
   - [Redux-Saga](https://redux-saga.js.org/) is a library that aims to make application side effects
   - [Datejs](https://day.js.org/docs/en/installation/installation) or [Moment](https://momentjs.com/)
   - [validatejs](https://validatejs.org/) provides a declarative way of validating javascript objects
+  - [Purecss](https://purecss.io/) is set of small, responsive CSS modules that you can use in every web project.
 
 ## Structure 
 Sample starter project\
